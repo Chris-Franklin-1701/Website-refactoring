@@ -2,7 +2,7 @@
 This is the first portfolio piece #1 from Coding Boot Camp.
 This project asked for a refactoring of a provided website's code.
 
-![Alt text](https://github.com/SilverSSSC/Boot-camp-portfolio-piece1/blob/main/Boot-camp-portfolio-piece1.png?raw=true "Boot-camp-portfolio-piece1")
+(https://github.com/SilverSSSC/Boot-camp-portfolio-piece1/blob/main/Boot-camp-portfolio-piece1.png?raw=true "Boot-camp-portfolio-piece1")
 
 ## Installation
 
