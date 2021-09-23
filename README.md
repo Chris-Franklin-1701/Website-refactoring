@@ -9,7 +9,7 @@ This project asked for a refactoring of a provided website's code.
 Use git clone to clone this repository to your local drive
 
 '''bash
-git clone git@github.com:SilverSSSC/Boot-camp-portfolio-piece1.git
+git clone "insert repo"
 '''
 
 ## Contributing
