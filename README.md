@@ -1,4 +1,4 @@
-# Boot-camp-portfolio-piece1
+# Website Refactoring
 This is the first portfolio piece #1 from Coding Boot Camp.
 This project asked for a refactoring of a provided website's code.
 
